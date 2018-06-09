@@ -14,7 +14,7 @@ Async and sync uuid generator.
 
 ### Uuidy
 - `four: AsyncFunction`
-- `fourSync: Function'
+- `fourSync: Function`
 
 ## Authors
 [AlexanderElias](https://github.com/AlexanderElias)

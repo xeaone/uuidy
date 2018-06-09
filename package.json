@@ -1,6 +1,6 @@
 {
 	"name": "uuidy",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Uuidy",
 	"main": "index.js",
 	"scripts": {
