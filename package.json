@@ -1,6 +1,6 @@
 {
 	"name": "uuidy",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Uuidy",
 	"main": "dis/uuidy.js",
 	"scripts": {
@@ -20,7 +20,8 @@
 		"url": "https://github.com/AlexanderElias/uuidy/issues"
 	},
 	"homepage": "https://github.com/AlexanderElias/uuidy#readme",
-	"dependencies": {
+	"dependencies": {},
+	"devDependencies": {
 		"muleify": "^5.0.6"
 	}
 }
