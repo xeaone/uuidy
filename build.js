@@ -1,5 +1,9 @@
+
+const Cp = require('child_process');
+const Mp = Cp.execSync('npm root -g').toString().trim();
+const Muleify = require(`${Mp}/muleify`);
+
 const Package = require('./package');
-const Muleify = require('muleify');
 const Util = require('util');
 const Fs = require('fs');
 

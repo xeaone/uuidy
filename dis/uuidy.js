@@ -1,6 +1,6 @@
 /*
 	Name: uuidy
-	Version: 1.1.0
+	Version: 1.1.2
 	License: MPL-2.0
 	Author: Alexander Elias
 	Email: alex.steven.elias@gmail.com
