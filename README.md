@@ -1,20 +1,17 @@
 
 # Uuidy
-Async and sync uuid generator.
+Async and sync uuid generator. Generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDs.
+ES5 browser compatiable non sync version uses promises.
 
 ### Install
 - `npm i uuidy --save`
 
-## Example
-```js
-
-```
-
 ## Api
 
 ### Uuidy
-- `four: AsyncFunction`
-- `fourSync: Function`
+- Version 4
+    - `four: AsyncFunction`
+    - `fourSync: Function`
 
 ## Authors
 [AlexanderElias](https://github.com/AlexanderElias)

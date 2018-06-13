@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="../dis/uuidy.js"></script>
+</head>
+<body>
+
+	<script>
+		Promise.resolve().then(function () {
+			return Uuidy.four();
+		}).then(function (uuid) {
+			console.log(uuid);
+		}).catch(function (error) {
+			console.error(error);
+		});
+	</script>
+
+</body>
+</html>
